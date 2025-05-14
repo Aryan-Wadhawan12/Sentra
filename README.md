@@ -1,6 +1,9 @@
-Here’s your content structured into a professional Project Plan format for Sentra™ — Ethical Facial Recognition for Homes and Schools:
 
-Sentra™ Project Plan: Ethical Facial Recognition for Secure Spaces
+
+Sentra™ Project Plan:
+
+
+
 
 1. Project Vision & Objectives
 Purpose:
@@ -194,57 +197,6 @@ Affordable Innovation: Enterprise-grade safety at household prices
 
 
 
-10. Success Metrics
-≥ 95% facial recognition accuracy in field conditions
-
-
-100% local data processing and zero third-party data exposure
-
-
-Positive feedback from 80% of pilot users
-
-
-Scalable deployment in 10+ schools/homes within 6 months
-
-
-
-
-
-Feature
-Sentra™
-CCTV
-Ring / Nest
-School Biometrics
-Data Privacy (Local Storage)
-✅ AES-256 Local
-❌ Cloud / DVR
-❌ Cloud-only
-❌ Vendor Cloud
-Facial Recognition
-✅ Local, Real-time
-❌ No
-✅ Cloud-based
-✅ Fingerprint-based
-Automated Attendance
-✅ Facial-based
-❌ Manual
-❌ Not available
-✅ Biometric-only
-Designed for Homes & Schools
-✅ Multi-purpose
-❌ Generic
-❌ Home-only
-✅ School-focused
-Multi-language Interface
-✅ Yes (incl. Indian lang.)
-❌ English-only
-❌ English-only
-❌ English-only
-Mobile Notifications & Control
-✅ Yes (App support)
-❌ No
-✅ Yes
-❌ No
 
 Why Sentra™ Stands Out:
 Proactive facial recognition & emotion detection
